@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+ /* Wrap container in scroll-safe box */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden; 
+  overflow-y: hidden; 
+}
+.App {
+  min-height: 100vh;
+}
