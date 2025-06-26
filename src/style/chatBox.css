@@ -109,6 +109,11 @@ h2 {
 }
 
 @media (max-width: 768px) {
+  .query-container {
+ height: 100vh;
+  margin: 30px auto;
+
+}
 h2 {
   color: #0097a7;
   margin-bottom: 10px;
