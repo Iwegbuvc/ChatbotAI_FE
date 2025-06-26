@@ -110,7 +110,6 @@ h2 {
 
 @media (max-width: 768px) {
   .query-container {
- height: 100vh;
   margin: 30px auto;
 
 }
