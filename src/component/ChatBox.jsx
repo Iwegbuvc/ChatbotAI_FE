@@ -7,7 +7,7 @@ const ChatBox = () => {
   // State to track what the user is currently typing
   const [userMessage, setUserMessage] = useState("");
 
-  // State to show loading indicator while waiting for API response
+  // State to show loading indicator while waiting for API response.......
   const [loading, setLoading] = useState(false);
 
   // State to store chat messages. Pulls from localStorage if available.
